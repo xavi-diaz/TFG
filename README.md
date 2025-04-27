@@ -1,2 +1,3 @@
-# TFG
-Repositorio para el Trabajo Fin de Grado en el que estudié la predicción de parámetros ópticos moleculares usando machine learning. 
+# TFG: Aplicaciones de Aprendizaje en Máquina en Química. 
+*Predicción de la longitud de onda de absorción máxima usando métodos de Machine Learning*
+
