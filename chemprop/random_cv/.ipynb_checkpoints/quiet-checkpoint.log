@@ -1,0 +1,28 @@
+Fold 0
+Model 0 best validation mae = 18.420266 on epoch 18
+Model 0 test mae = 18.048878
+Ensemble test mae = 18.048878
+Fold 1
+Model 0 best validation mae = 17.371285 on epoch 18
+Model 0 test mae = 19.702850
+Ensemble test mae = 19.702850
+Fold 2
+Model 0 best validation mae = 19.313952 on epoch 19
+Model 0 test mae = 19.095959
+Ensemble test mae = 19.095959
+Fold 3
+Model 0 best validation mae = 19.239060 on epoch 19
+Model 0 test mae = 19.784082
+Ensemble test mae = 19.784082
+Fold 4
+Model 0 best validation mae = 18.600254 on epoch 19
+Model 0 test mae = 19.172967
+Ensemble test mae = 19.172967
+5-fold cross validation
+	Seed 0 ==> test mae = 18.048878
+	Seed 1 ==> test mae = 19.702850
+	Seed 2 ==> test mae = 19.095959
+	Seed 3 ==> test mae = 19.784082
+	Seed 4 ==> test mae = 19.172967
+Overall test mae = 19.160947 +/- 0.620165
+Elapsed time = 2:15:54
