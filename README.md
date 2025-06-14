@@ -1,4 +1,4 @@
-# Aplicaciones de Aprendizaje Máquina en Química. 
+# Aplicaciones de Aprendizaje Automático en Química. 
 *Predicción de la longitud de onda de absorción máxima usando métodos de Machine Learning*
 
 **Descripción de los archivos**
