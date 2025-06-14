@@ -15,5 +15,16 @@
 * [data_solvents](https://github.com/xavi-diaz/TFG/tree/main/data_solvents)
   - `chemfluor_cgsd_solvent_db.csv` Es la base de datos del descriptor molecular del disolvente Chemfluor CGSD
   - `mn_solvent_db.csv` Es la base de datos del descriptor molecular del disolvente Minnesota Solvent Descriptor
-* [figuras](https://github.com/xavi-diaz/TFG/tree/main/figuras)
-* [padel](https://github.com/xavi-diaz/TFG/tree/main/padel)
+* [figuras](https://github.com/xavi-diaz/TFG/tree/main/figuras) Incluye las figuras.
+* [padel](https://github.com/xavi-diaz/TFG/tree/main/padel) Software externo usado.
+## Notebooks de Jupyter
+* Tratamiento de datos, obtención de subconjuntos.ipynb
+* Base de datos externa.ipynb
+* `xgb_knn_distintas_features.ipynb` Incluye el código usado para evaluar los modelos de KNN y XGB usando las distintas representaciones del disolvente y con las dos divisiones de los datos estudiada. También incluye la validación final para KNN y XGB.
+* `cv_chemprop.py` y `prediccion_chemprop.sh` incluyen el código que se ejecutó por terminal para llevar a cabo la validación cruzada de Chemprop y la validación final respectivamente.
+* `k-NN_todas carcateristicas.ipynb` y `XGBoost_todas características.ipynb` incluyen unas pruebas iniciales donde se entrenaron KNN y XGB con todas las características.
+## Archivos de datos
+* `master_df_all_features.csv` Es la base de datos tomada de Greenman et al.
+* `scaled_df.csv` Es la base de datos procesada y escaladas a media 0 y desviación estándar 1.
+* `bval_final_all_features.csv` Es la base de datos usada para la validación final.
+* `chemprop_data_val.csv` Incluye los datos indicados a Chemprop para llevar a cabo la validación final.
