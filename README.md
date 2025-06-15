@@ -28,3 +28,4 @@
 * `scaled_df.csv` Es la base de datos procesada y escaladas a media 0 y desviación estándar 1.
 * `bval_final_all_features.csv` Es la base de datos usada para la validación final.
 * `chemprop_data_val.csv` Incluye los datos indicados a Chemprop para llevar a cabo la validación final.
+* `Opt_HIperparametros_XGBoost.ipynb` y `Opt_Hiperparametros_kNN.ipynb` Incluyen la optimización de hiperparámetros para k-NN y XGB.
